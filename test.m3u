@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AppleBipBop" tvg-name="Apple BipBop (Official Test Video)" group-title="Apple Official",Apple BipBop Basic
+https://apple.com/bipbop_4x3/bipbop_4x3_variant.m3u8
+
+#EXTINF:-1 tvg-id="AppleAdvanced" tvg-name="Apple Advanced Stream (Multi-audio/Subtitles)" group-title="Apple Official",Apple Advanced Test
+https://apple.com/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="BigBuckBunny" tvg-name="Big Buck Bunny (VOD Seekable)" group-title="VOD Clips",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Sintel" tvg-name="Sintel Trailer (1080p HLS)" group-title="VOD Clips",Sintel Movie Trailer
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
